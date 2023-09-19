@@ -13,16 +13,16 @@ Please avoid using this platform for any services if you do not agree with the P
 deemed that if you continue to use the platform, you have given SavvyPool your unconditional
 consent and agreement as set forth in section 43A and 72A of the Information Technology Act, 2000.
 
-- a) Savvy Pool may need some personal information from users in the course of and for the
+- a) SavvyPool may need some personal information from users in the course of and for the
 provision of its services, such as their name, email address, contact information, permanent
-address, etc. In order to provide seamless and uninterrupted services, Savvy Pool may be
+address, etc. In order to provide seamless and uninterrupted services, SavvyPool may be
 required to share certain personal information, such as name and contact number, with its
-registered business partners. Savvy Pool only utilizes such information to verify and
-authenticate users' identities. However, Savvy Pool never uses a user's personal information for
+registered business partners. SavvyPool only utilizes such information to verify and
+authenticate users' identities. However, SavvyPool never uses a user's personal information for
 commercial gain or divulges it to any unrelated third parties.
 
 - b) For the purposes of this Privacy Policy, "you" or "User" shall mean any natural or legal
-person, whether registered or not, who has agreed to use the Platform and avail of Savvy Pool's
+person, whether registered or not, who has agreed to use the Platform and avail of SavvyPool's
 services in accordance with the terms of use, including Users whose accounts are about to
 expire.
 
@@ -34,7 +34,7 @@ Technology (Reasonable Security Practices and Procedures and Sensitive Personal
 Information) Rules, 2011, and the Information Technology (Intermediaries Guidelines) Rules,
 2011, also known as the "SPI Rules" and the "IG Rules”.
 
-- e) The Savvy Pool's collection of Personal Information and Sensitive Personal Information
+- e) The SavvyPool's collection of Personal Information and Sensitive Personal Information
 ( here in after collectively referred to as "Information"), as well as the goals, methods, and
 procedures involved in gathering and using such Information, as well as the disclosure of such
 Information, are governed by this Privacy Policy.
@@ -112,7 +112,7 @@ we might occasionally have to release your personal information to third parties
 professional services and/or who assist us in training, quality monitoring, and quality
 enhancement of our services to the user and/or business partners with call recordings of all
 phone calls made between:
-[1] any User and Savvy pool;
+[1] any User and SavvyPool;
 [2] any Business Partner and SavvyPool;
 [3] any User and Business Partner of SavvyPool. You hereby provide SavvyPool your
 unreserved approval to distribute these call recordings with third parties for such purposes. You
@@ -140,12 +140,11 @@ believe might be potentially dangerous, provocative, or humiliating to our Users
 published, or put on the Platform or website. In order to ensure their online and Platform safety,
 users should keep the following in mind.
 
-- a) Password security is the exclusive responsibility of the user. Nobody in charge at Savvy
-Pool will know your password. You should take precautions to prevent unauthorised
+- a) Password security is the exclusive responsibility of the user. Nobody in charge at SavvyPool will know your password. You should take precautions to prevent unauthorised
 access to your password, computer, and mobile device. When completed, remember to
-log out of the Platform. No responsibility is assumed by Savvy Pool for any unauthorized
-use of your account or password. Savvy pool must be notified right away if you believe
-there has been any unauthorized use of your account by sending an email to (email id).
+log out of the Platform. No responsibility is assumed by SavvyPool for any unauthorized
+use of your account or password. SavvyPool must be notified right away if you believe
+there has been any unauthorized use of your account by sending an email to admin.sp@savvypool.com
 
 - b) Each User is liable for the security of their personal data. Users are strongly advised
 from posting their home addresses, email addresses, phone numbers, or other
@@ -153,7 +152,7 @@ personally identifiable information online for public use.
 
 - c) All Users should be aware that any images they publish to the Platform may be
 downloaded as anybody with access to a computer screen has the ability to save any
-image they see. Technically, there is no way to stop this, hence Savvy Pool is not
+image they see. Technically, there is no way to stop this, hence SavvyPool is not
 accountable in these situations. Please do not post your photographs if you are
 concerned about someone else viewing or storing them. You may, at your option, send
 our business partner a photo directly, and not through the Platform, if they request one
@@ -184,8 +183,8 @@ child has given us personal information so that we can take the appropriate meas
 
 - b) **LINKS TO OTHER WEBSITES** :-
 Links to other websites that may gather personally identifiable information about you are
-available on our website. Savvy Pool highly suggests that you study or carefully read over the
-privacy policy of such websites before continuing to visit them since Savvy Pool is not
+available on our website. SavvyPool highly suggests that you study or carefully read over the
+privacy policy of such websites before continuing to visit them since SavvyPool is not
 accountable for the privacy practises or the content of such third party websites.
 
 - c) **SECURITY PRECAUTIONS** :-
